@@ -8,7 +8,7 @@ Head over to [sparkle.space](https://sparkle.space) for all the action.
 
 | Repository | Description |
 |------------|-------------|
-| [sparklespace](https://github.com/sparkle-space/sparklespace) | Platform application for [app.sparkle.space](https://app.sparkle.space) — event models, Elixir/Phoenix |
+| [sparklespace](https://github.com/sparkle-space/sparklespace) | Platform application for [sparkle.space](https://sparkle.space) — event models, Elixir/Phoenix |
 | [event-modeler](https://github.com/sparkle-space/event-modeler) | Visual, collaborative event modeling for system design |
 | [event-modeling-for-non-technical-people](https://github.com/sparkle-space/event-modeling-for-non-technical-people) | Companion repo for the book — examples, templates, and LLM prompts |
 
